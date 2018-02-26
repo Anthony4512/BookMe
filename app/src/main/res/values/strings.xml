@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bookme</string>
+    <string name="login_text">Login</string>
+    <string name="signup_hint">SignUp</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="signup_message">Don\'t have an account? Click here to sign up</string>
+    <string name="recover_password_msg">Recover password</string>
+    <string name="login_msg">Already have an account? Click here to Login</string>
+    <string name="recover_pass_hint">Enter a registered email address</string>
+    <string name="username_or_email">Username or Email</string>
+
+</resources>
